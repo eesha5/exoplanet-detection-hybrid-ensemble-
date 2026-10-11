@@ -2,8 +2,6 @@
 
 Classifying Kepler Objects of Interest (KOIs) as **planet candidates** or **false positives** using four gradient-boosted / bagged tree models and a soft-voting hybrid ensemble built from all four.
 
-> Case study for *Application of Artificial Intelligence in Robotics and Automation* — Department of Robotics and Automation, Symbiosis Institute of Technology, Pune (2025–26).
-
 ---
 
 ## Overview
